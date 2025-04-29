@@ -1,7 +1,6 @@
 # Synopsis
 The Businsee Insights 360 Offers a robust dashboard powered by Microsoft Power BI, tailored to provide AtliQ Hardware with comprehensive insights across their finance, sales, marketing, and supply chain departments worldwide. This Dynamic tool amalgaments data data from Excel/CSV files and MySQL databases, enabling a holistic view of the company's operations.
 
-Live Dashboard : from Novypro
 Portfolio : From codebasics
 
 # Key Highlights
